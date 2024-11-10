@@ -2,7 +2,7 @@
 layout: post
 title: "Migrating to Ubuntu"
 date: 2024-09-26 12:23 +0800
-tags: [Diary,IT]
+tags: [Diary,IT,OS]
 comments: true
 author: DavidX
 ---

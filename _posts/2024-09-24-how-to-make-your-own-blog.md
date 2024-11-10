@@ -2,7 +2,7 @@
 layout: post
 title: "How to Make Your Own Blog"
 date: 2024-09-24 16:23 +0800
-tags: [Guide,IT]
+tags: [Guide,IT,Web]
 comments: true
 author: DavidX
 ---

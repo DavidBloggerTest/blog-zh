@@ -2,7 +2,7 @@
 layout: post
 title: "GNOME Shell Extensions"
 date: 2024-09-27 23:55 +0800
-tags: [Guide,IT]
+tags: [Guide,IT,OS]
 comments: true
 author: DavidX
 ---

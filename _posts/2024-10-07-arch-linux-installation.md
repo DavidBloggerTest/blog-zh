@@ -2,7 +2,7 @@
 layout: post
 title: "Arch Linux Installation"
 date: 2024-10-07 21:07 +0800
-tags: [Guide,IT]
+tags: [Guide,IT,OS]
 comments: true
 author: DavidX
 ---

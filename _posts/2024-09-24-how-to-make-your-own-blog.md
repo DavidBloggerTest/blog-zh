@@ -14,7 +14,7 @@ After my own try at making this blog, I find it quite easy to make one. You only
 
 I\'ve prepared an empty blog sample [here](https://github.com/Davidasx/blog-framework-template). It\'s based on [Jekyll Now](https://github.com/barryclark/jekyll-now) and I added some small improvements.
 
-The sample itself, if deployed without modification, looks like [this](https://davidx.us.kg/blog-framework-template/). With a bit of configuration, you can make a blog of your own.
+The sample itself, if deployed without modification, looks like [this](https://davidasx.github.io/blog-framework-template/). With a bit of configuration, you can make a blog of your own.
 
 First, fork that repository and remember to name it as YOUR_GITHUB_HANDLE.github.io. That way, you will have the framework of the blog in your own hands.
 

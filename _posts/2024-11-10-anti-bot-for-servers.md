@@ -32,7 +32,7 @@ I updated the logger code (it was previously logging 127.0.0.1 because the site 
 ## Fighting the Bots
 A major cause was that the project was running directly at the 80/443 ports, which means that bots can access this directly without adding a custom port, making scanning much easier. I have since added another fake website that was at the top priority of the Nginx configuration, and the real site was moved to a custom port. This way, bots will have to scan all ports to find the site, which is much harder.
 
-The fake site is [here](https://github.com/Davidasx/bot). You can deploy it yourself and it will run at port 8899. Just use Nginx to proxy_pass to the port. It will return 404 for every page except the main page and display a warning message. The logs will record the visitor's IP and all will be accessible by myself. Here's an even more stupid attack attempt:
+Code for the fake site is [here](https://github.com/Davidasx/bot). You can deploy it yourself and it will run at port 8899. Just use Nginx to proxy_pass to the port. It will return 404 for every page except the main page and display a warning message. The logs will record the visitor's IP and all will be accessible by myself. Here's an even more stupid attack attempt:
 ```
 [2024-11-10 07:09:29] from 200.178.226.162 GET /remote/login 404
 ```

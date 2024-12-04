@@ -13,4 +13,4 @@ permalink: /about/
 
 - [洛谷](https://www.luogu.com/user/86840)
 - [GitHub](https://github.com/Davidasx)
-- [电子邮件](mailto:davidx@davidx.us.kg)
+- [电子邮件](mailto:blog-zh@davidx.us.kg)

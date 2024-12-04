@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
-## This Site
+## 本网站
 
-This site is made with GitHub Pages and Jekyll.
+本网站由GitHub Pages和Jekyll构建，托管在us.kg域名上。
 
-## Contact
+## 联系我
 
-Feel free to contact me:
+你可以通过这些渠道联系我：
 
-- [Luogu](https://www.luogu.com/user/86840)
+- [洛谷](https://www.luogu.com/user/86840)
 - [GitHub](https://github.com/Davidasx)
-- [Email](mailto:davidx@davidx.us.kg)
+- [电子邮件](mailto:davidx@davidx.us.kg)

@@ -17,9 +17,9 @@ navigation:
 paginate: 8
 
 gitalk:
-  clientID: Ov23liFjaB3m2aO8lSRN
-  clientSecret: 2f599b4040c753c344afd394517635fa5cca5473
-  repo: blog-comments-davidx
+  clientID: Ov23li0lN7ydTzRa9xf8
+  clientSecret: ad9b47288ca13113f94e69c0d1e7cad05b2ff7bf
+  repo: blog-zh-comments-davidx
   owner: Davidasx
 
 excerpt_separator: <!-- more -->

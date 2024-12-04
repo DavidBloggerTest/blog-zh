@@ -1,17 +1,17 @@
 name: "DavidX's Blog"
 description: "Programming and more personal thoughts."
 
-avatar: https://blog.davidx.us.kg/images/avatar.png
-favicon: https://blog.davidx.us.kg/images/favicon.ico
+avatar: https://blog-zh.davidx.us.kg/images/avatar.png
+favicon: https://blog-zh.davidx.us.kg/images/favicon.ico
 
 navigation:
-  - name: Home
+  - name: 博客主页
     url: /
-  - name: About
+  - name: 关于
     url: /about
-  - name: Tags
+  - name: 分类
     url: /tags
-  - name: Feedback
+  - name: 反馈
     url: /feedback
 
 paginate: 8
@@ -31,7 +31,7 @@ footer-links:
 
 footer-text: Copyright (c) DavidX 2024 # your name here
 
-url: blog.davidx.us.kg
+url: blog-zh.davidx.us.kg
 
 # do not change anything below this line!
 

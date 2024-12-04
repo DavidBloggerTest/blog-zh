@@ -28,7 +28,7 @@ layout: default
     resultsContainer: document.getElementById('results-container'),
     json: '{{ site.baseurl }}/search.json',
     searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-    noResultsText: 'No results found',
+    noResultsText: '未找到任何相关结果！',
     limit: 10,
     fuzzy: false,
     exclude: ['Welcome']
@@ -36,7 +36,7 @@ layout: default
 </script>
 
 {% if site.posts.size == 0 %}
-<h2>No post found</h2>
+<h2>未找到任何相关结果！</h2>
 {% endif %}
 
 <div class="posts">

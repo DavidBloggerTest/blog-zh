@@ -36,7 +36,7 @@ layout: default
 </script>
 
 {% if site.posts.size == 0 %}
-<h2>未找到任何相关结果！</h2>
+<h2>暂无文章</h2>
 {% endif %}
 
 <div class="posts">
@@ -77,15 +77,23 @@ layout: default
   {% if paginator.previous_page %}
   <span class="prev">
     <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-      ← 上一篇
+      ← 上一页
     </a>
   </span>
   {% endif %}
   {% if paginator.next_page %}
   <span class="next">
     <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-      下一篇 →
+      下一页 →
     </a>
   </span>
   {% endif %}
+</div>
+<div align="center">
+  <span class="counter">
+    <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_site_pv">
+      您是第<span id="busuanzi_value_site_pv"></span>位访客
+    </span>
+  </span>
 </div>

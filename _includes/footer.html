@@ -1,11 +1,18 @@
 {% include svg-icons.html %}
 
 {% if site.footer-text %}
-<p>{{ site.footer-text }}<a href="https://blog.davidx.us.kg">International Version</a></p>
+<p>{{ site.footer-text }}</p>
+<p><a href="https://blog.davidx.us.kg">International Version</a></p>
 
 <!-- 访问量统计 -->
+<style>
+    #busuanzi_container_site_pv {
+        display: inline !important;
+    }
+</style>
 <script async src="https://busuanzi.icodeq.com/busuanzi.pure.mini.js"></script>
 <span id="busuanzi_container_site_pv">
     您是第<span id="busuanzi_value_site_pv"></span>位访客
 </span>
+{% endif %}
 {% endif %}

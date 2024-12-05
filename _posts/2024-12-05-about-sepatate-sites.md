@@ -2,7 +2,7 @@
 layout: post
 title: "关于国内国际版博客分离"
 date: 2024-12-05 16:27 +0800
-tags: [介绍]
+tags: [公告]
 comments: true
 author: DavidX
 ---

@@ -1,9 +1,8 @@
 name: "DavidX的博客"
 description: "技术文章、编程技巧和个人见解"
 
-
-avatar: https://blog-zh.davidx.us.kg/images/avatar.png
-favicon: https://blog-zh.davidx.us.kg/images/favicon.ico
+avatar: https://blog-zh.davidx.top/images/avatar.png
+favicon: https://blog-zh.davidx.top/images/favicon.ico
 
 navigation:
   - name: 博客主页
@@ -26,13 +25,13 @@ gitalk:
 excerpt_separator: <!-- more -->
 
 footer-links:
-  email: blog-zh@davidx.us.kg
+  email: blog-zh@davidx.top
   github: Davidasx
-  rss:  this_is_rss # nothing to change here
+  rss: this_is_rss # nothing to change here
 
 footer-text: 版权所有 (c) DavidX 2024 # your name here
 
-url: https://blog-zh.davidx.us.kg
+url: https://blog-zh.davidx.top
 
 # do not change anything below this line!
 
@@ -68,4 +67,3 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-

@@ -27,9 +27,10 @@ excerpt_separator: <!-- more -->
 footer-links:
   email: blog-zh@davidx.top
   github: Davidasx
+  telegram: davidasx
   rss: this_is_rss # nothing to change here
 
-footer-text: 版权所有 (c) DavidX 2024 # your name here
+footer-text: 版权所有 (c) DavidX 2024-2025 # your name here
 
 url: https://blog-zh.davidx.top
 

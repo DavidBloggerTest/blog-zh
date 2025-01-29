@@ -49,7 +49,7 @@ kramdown:
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    # Use existing pygments synt
+    css_class: "highlight"
   math_engine: MathJax
 
 # Set the Sass partials directory, as we're using @imports

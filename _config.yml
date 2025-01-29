@@ -17,9 +17,9 @@ navigation:
 paginate: 8
 
 gitalk:
-  clientID: Ov23li0lN7ydTzRa9xf8
-  clientSecret: ad9b47288ca13113f94e69c0d1e7cad05b2ff7bf
-  repo: blog-zh-comments-davidx
+  clientID: Ov23liXZnrhUefm2u6he
+  clientSecret: d75888d10de3bde613eaca72cb6fdafb774f3050
+  repo: comments-zh
   owner: Davidasx
 
 excerpt_separator: <!-- more -->
@@ -54,7 +54,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:

@@ -1,2 +1,2 @@
-# [https://blog.davidx.top/](https://blog.davidx.top/)
-DavidX's Personal Blog via GitHub
+# [https://blog-zh.davidx.top/](https://blog-zh.davidx.top/)
+中文版的个人博客。
